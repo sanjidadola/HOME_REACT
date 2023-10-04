@@ -10,6 +10,7 @@ const Popup = () => {
     <>
      <div style={{background:'green',width:'700px'}}>
         <h1>i am crying wait for after 2min</h1>
+        <h2>please someboday santonaday</h2>
         {
             cry ? <div style={{display:'flex',justifyContent:"spaceBetween",alignItems:'flex-start',gap:'1rem'}}>
             <video controls autoPlay muted loop style={{border:'9px dotted gold'}}>
@@ -19,13 +20,6 @@ const Popup = () => {
 
             </div>:<div><h1></h1></div>
         }
-        
-          
-        
- 
-
-
-       
        
     </div>
     
